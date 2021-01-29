@@ -12,10 +12,10 @@ If a player a enters a position which is already filled it asks to re-enter the 
 
 ![TicTacToe3](https://user-images.githubusercontent.com/76028764/106302501-0fc6fd80-627f-11eb-9687-0ae6561d40f4.png)
 
-# Winner
+If any of player wins
 
 ![TicTacToe4](https://user-images.githubusercontent.com/76028764/106302512-13f31b00-627f-11eb-968c-615308afd466.png)
 
-Draw
+If the match ties
 
 ![TicTacToe5](https://user-images.githubusercontent.com/76028764/106302525-18b7cf00-627f-11eb-943e-e76f98ffd230.png)
